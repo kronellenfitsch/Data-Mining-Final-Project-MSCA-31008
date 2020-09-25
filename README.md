@@ -12,4 +12,12 @@ This repository contains materials for our final Data Mining project, which incl
 
 **Contents:**
 * Data
+  * Amazon luxury beauty products - metadata 
+  * Amazon luxury beauty products - review data
+  * Customer segments
 * Scripts 
+  * Sentiment analysis 
+  * Gray Sheep identification 
+  * Collaborative recommender system 
+  * Content-based and hybrid recommender systems (using Light FM)
+* Final report
